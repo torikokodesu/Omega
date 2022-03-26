@@ -14,7 +14,7 @@
 		background-image: url("background/background_01/background01.png") !important;
 	}
 	#picture2:before {
-		background: rgba(120,115,181,.5);
+		background: rgba(235,180,54,.5);
 	}
 	#picture2 {
 		background-image: url("background/background_01/background02.png") !important;
@@ -32,7 +32,7 @@
 		background-image: url("background/background_01/background04.png") !important;
 	}
 	#picture5:before {
-		background: rgba(218,72,91,.5);
+		background: rgba(80,119,186,.5);
 	}
 	#picture5 {
 		background-image: url("background/background_01/background05.png") !important;
